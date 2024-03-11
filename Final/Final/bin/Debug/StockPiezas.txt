@@ -1,0 +1,5 @@
+1|Carroceria|10
+2|Motor|16
+3|Caja de Cambios|8
+4|Puertas|22
+5|Ruedas|20

@@ -1,0 +1,5 @@
+1|Vehiculo|22
+2|Moto|10
+3|Camioneta|15
+4|Camion|25
+5|Cuatriciclo|5
